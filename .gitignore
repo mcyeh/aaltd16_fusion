@@ -1,2 +1,3 @@
 dataset/*.h5
-document/
+document/*
+!document/system_outline.pdf

@@ -2,9 +2,7 @@
 
 by [Michael Yeh](http://www.cs.ucr.edu/~myeh003/) and [Eamonn Keogh](http://www.cs.ucr.edu/~eamonn/)
 
-This package contains the code necessary for reproducing our submission for the "bofSC + randShape" method which won the [AALTD'16 Challenge](https://aaltd16.irisa.fr/challenge/). The package is written in MATLAB.
-
-The description of our method is included in 'document\system_outline.pdf'.
+This package contains the code necessary for reproducing our submission for the "bofSC + randShape" method which won the [AALTD'16 Challenge](https://aaltd16.irisa.fr/challenge/). The package is written in MATLAB, and the description of our method is included in 'document\system_outline.pdf'.
 
 The submitted files are included in the folder 'output\_submit', and the file names are 'dn1024\_\_sl25\_\_sn150\_\_task1.txt' for task 1 and 'dn1024\_\_sl25\_\_sn150\_\_task2.txt' for task 2.
 
